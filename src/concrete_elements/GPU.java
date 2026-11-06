@@ -31,7 +31,4 @@ public class GPU implements HardwareComponent {
         visitor.visitGPU(this);
     }
 
-
-
-
 }

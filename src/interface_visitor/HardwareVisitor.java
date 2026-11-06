@@ -1,6 +1,9 @@
 package interface_visitor;
 
 import concrete_elements.CPU;
+import concrete_elements.GPU;
+import concrete_elements.RAM;
+import concrete_elements.Storage;
 
 public interface HardwareVisitor {
 
