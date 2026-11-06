@@ -132,7 +132,7 @@ GPU power consumption: 200 W
 RAM power consumption: 10 W
 Storage power consumption: 5 W
 
-Total estimated power consumption: 335 W
+Total estimated power consumption: 335W
 
 DIAGNOSTICS COMPLETED
 ```
